@@ -30,4 +30,4 @@ Below we show a series of screenshots of the application:
 
 #### Historical value estimates of the car. These are obtained via a neural network trained on historical data. It also shows a prediction on how the value of the car will evolve in the following years.
 
-![Historical value estimates of the car. These are obtained via a neural network trained on historical data. It also shows a prediction on how the value of the car will evolve in the following years.]("carchain_car_value_history_prediction.png")
+![Historical value estimates of the car. These are obtained via a neural network trained on historical data. It also shows a prediction on how the value of the car will evolve in the following years.](carchain_car_value_history_prediction.png)
