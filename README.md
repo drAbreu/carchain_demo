@@ -26,7 +26,7 @@ Below we show a series of screenshots of the application:
 
 #### Events shown above in form of a detailed list
 
-![Events shown above in form of a detailed list](carchain_events_list.png)
+![Events shown above in form of a detailed list](carchain_car_value history_prediction.png)
 
 #### Historical value estimates of the car. These are obtained via a neural network trained on historical data. It also shows a prediction on how the value of the car will evolve in the following years.
 
